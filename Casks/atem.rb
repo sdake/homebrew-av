@@ -9,5 +9,5 @@ cask "atem" do
     url :url
     strategy :github_latest
   end
-  app "ATEM"
+  app "Blackmagic ATEM Switchers"
 end
