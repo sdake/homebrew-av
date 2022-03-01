@@ -9,5 +9,5 @@ cask "decimator" do
     url :url
     strategy :github_latest
   end
-  app "UCP3.0.0"
+  app "Decimator.app"
 end
